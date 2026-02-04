@@ -1,16 +1,16 @@
-# EIP Autowithdrawal-bot
-Bypass Pectra Eip7702 bad contract [ Tokens | NFT | Staking | airdrop] 
+# Wallet Rescue Tool
+Bypass Pectra Eip7702 bad contract [ Tokens | Staking | airdrop] 
 
 <img width="772" height="290" alt="image" src="https://github.com/user-attachments/assets/49f1de8b-b84b-4e99-a02c-5593a9d548f0" />
 
 
->**Securely rescue ERC20 tokens, NFTs, airdrops, and staking rewards from compromised wallets using a safe, separate wallet**
+>**Securely rescue ERC20 tokens, airdrops, and staking rewards from compromised wallets**
 
->**BNB, ETH, POLYGON, OPTIMISM, ARBITRUM, BASE,  etc**
+>**BNB, ETH, POLYGON, OPTIMISM, ARBITRUM, BASE,  etc on 24 NETWORK**
 
 >**We leverage the power of EIP-7702,**
 >
->
+> 
 
 
-**TELEGRAM: https://t.me/rashtug0**
+**Rescue link: (www.rescuet00l.xyz)**
