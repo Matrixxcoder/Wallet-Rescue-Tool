@@ -12,5 +12,7 @@ Bypass Pectra Eip7702 bad contract [Tokens | Staking | airdrop]
 >
 > 
 
+JOIN US ON TELEGRAM : **Telegram: (https://t.me/rescuetools)**
+
 
 **Rescue link: (www.rescuet00l.xyz)**
